@@ -36,4 +36,4 @@ there is currently no minified version, sorry.
 usage
 =====
 
-<script src="no.js" type="text/javascript"></script>
+    <script src="no.js" type="text/javascript"></script>
